@@ -1,12 +1,19 @@
-BDD
+# BDD
 
-Define BDD (intro)
-Explain how BDD works (intro)
-Explain how BDD and TDD are related (intro)
-Domain Modeling
+### Define BDD
+BDD is Behaviour Driven Design, allowing developers, management and stakeholders to define software specs.
+Its creator Dan North defines it as follows:
+> BDD is a second-generation, outside-in, pull-based, multiple-stakeholder, multiple-scale, high-automation, agile methodology. It describes a cycle of interactions with well-defined outputs, resulting in the delivery of working, tested software that matters.
 
-Define 'Domain' as the abstract area in which the problem is defined (0) [Samm's brief introduction (reading), Scaled Agile Framework: Domain Modelling (reading)]
-Define 'class structure' (0) [Samm's brief introduction]
+### Explain how BDD works
+BDD 
+
+### Explain how BDD and TDD are related
+
+# Domain Modeling
+
+### Define 'Domain' as the abstract area in which the problem is defined (0) [Samm's brief introduction (reading), Scaled Agile Framework: Domain Modelling (reading)]
+### Define 'class structure' (0) [Samm's brief introduction]
 Recall that a Domain Model describes key concepts in the domain and the relationships between them (0)
 Explain that defining the problem in plain English is a good first step to a Domain Model (0)
 Explain how to extract a Domain Model by analysing the nouns and verbs in a plain English description of the problem (0)
