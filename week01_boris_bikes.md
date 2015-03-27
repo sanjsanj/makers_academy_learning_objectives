@@ -6,7 +6,7 @@ Its creator Dan North defines it as follows:
 > BDD is a second-generation, outside-in, pull-based, multiple-stakeholder, multiple-scale, high-automation, agile methodology. It describes a cycle of interactions with well-defined outputs, resulting in the delivery of working, tested software that matters.
 
 ### Explain how BDD works
-In BDD you write a unit test based on your Minimal-Viable-Product (MVP), watch it fail, write the application code to make it pass then rinse and repeat, building up your tests so that they offer total coverage for your desired outcome.
+In BDD you write a wide, over-arching feature test that describes a desired behaviour or interaction as infered from user stories, watch it fail, write the requisite smaller unit tests to provide coverage for your feature test, watch them fail, write the application code to make your tests pass then rinse and repeat from the beginning.
 
 ### Explain how BDD and TDD are related
 BDD is a continued development or evolution of TDD.  It provides a framework for deciding how and where to begin your testing, employing user stories and domain modelling.
